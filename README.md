@@ -1,4 +1,4 @@
-# 📶 Customer Churn - Business Intelligence Project
+e# 📶 Customer Churn - Business Intelligence Project
 # Introduction
 What is customer churn? -- When a customer decides to discontinue their relationship with a business/product. Customer churn is costly for any business. 
 In fact, it is far more expensive to "buy" a new customer than retain one. Therefore, it is important for a company to retain customers due to their long-term 
@@ -8,7 +8,7 @@ The ML model will consist of many classification models and ensemble of them usi
 
 This project is an extension to the first project in my Business Intelligence class. Using the same telecomm data, I applied a simple Decision Tree model to build a 
 accurate churn predicting model. In that project I got overall 69% model accuracy. Not very robust. I decided to revisit this project and apply all the new knowledge that 
-I have learned in my Business Intelligence class. The biggest change is of using Ensemble methods which is what I used here. You can see my first project on this github if interested titled 'Customer Churn'. The modified version will be title 'Churn Proj'.
+I have learned in my Business Intelligence class. The biggest change is of using Ensemble methods which is what I used here. You can see my first project on this github if interested titled 'Customer Churn'. The modified version will be title 'Churn Project'.
 
 
 # 📦 Technologies:

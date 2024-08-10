@@ -1,4 +1,4 @@
-e# 📶 Customer Churn - Business Intelligence Project
+# 📶 Customer Churn - Business Intelligence Project
 # Introduction
 What is customer churn? -- When a customer decides to discontinue their relationship with a business/product. Customer churn is costly for any business. 
 In fact, it is far more expensive to "buy" a new customer than retain one. Therefore, it is important for a company to retain customers due to their long-term 
